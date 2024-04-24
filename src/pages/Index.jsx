@@ -6,7 +6,7 @@ const quizQuestions = [
   {
     question: "What is a 'Zone Defense'?",
     options: ["A man-to-man defense strategy", "A defense covering specific area", "A type of fast break"],
-    answer: "A defense covering specific area",
+    answer: "A defense covering specific areas",
   },
   {
     question: "What does 'Pick and Roll' mean?",
